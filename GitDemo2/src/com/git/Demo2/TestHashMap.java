@@ -11,6 +11,8 @@ public class TestHashMap {
        hs.put("Komal","Pandey");
        hs.put("Gokul", "Patil");
        System.out.println(hs);
+       hs.put("Samir", "Deshmukh");
+       System.out.println(hs);
 	}
 
 }
